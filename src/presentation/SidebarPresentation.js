@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { func, array } from 'prop-types'
+import { array } from 'prop-types' 
 
 const SidebarPresentation = (props) => (
   <Aside>
